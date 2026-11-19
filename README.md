@@ -52,6 +52,8 @@ with default weights α = 0.6 (latency) and β = 0.4 (energy).
 
 ## System Architecture
 
+
+
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                     IoT Devices (up to 180)                 │
